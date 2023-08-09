@@ -1,0 +1,12 @@
+.container {
+  width: 100%;
+  background: #ffffff;
+  width: 430px;
+  height: 932px;
+  position: relative;
+  overflow: hidden;
+  margin: 0 auto;
+  @media (max-width: 1440px) {
+    max-width: 122rem;
+  }
+}
